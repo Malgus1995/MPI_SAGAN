@@ -17,8 +17,8 @@ ___
 Link : https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification <br>
 <strong> Classical Music MIDI</strong> <br>
 Link : https://www.kaggle.com/soumikrakshit/classical-music-midi <br>
-<strong> Classical Music MIDI</strong> <br>
-Link : https://www.kaggle.com/soumikrakshit/classical-music-midi <br>
+<strong> Magenta Datasets </strong> <br>
+Link : https://magenta.tensorflow.org/datasets/ <br>
 <strong> Music MIDI Collection</strong> <br>
 https://www.kaggle.com/programgeek01/anime-music-midi
 
