@@ -10,6 +10,14 @@ piano roll midi file <br>
 <img src='./midi_img/alb_esp6_Piano_1.png'><br>
 gray scale midi image<br>
 
+## Models arthitecture
+___
+
+![discriminator ](./discriminator.JPG) <br>
+
+![gan ](./gan_model_arhitecture.JPG) <br>
+
+![sagan ](./self_attention_gan_model_arhitecture.JPG) <br>
 
 ## Data source
 ___
