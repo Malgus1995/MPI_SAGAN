@@ -26,26 +26,28 @@ https://www.kaggle.com/programgeek01/anime-music-midi
 ___
 
 ### The DC gan model which trained 450 epoch generate fake music
+![dcgan450](./vanilagan450.gif) <br>
 youtube link: https://youtu.be/HZKP8TjhIk8
 
 ### The DC gan model which trained 1000 epoch generate fake music
+![dcgan1000](./valinagan1000.gif) <br>
 youtube link: https://youtu.be/apQXf4pcT2I
 
 ## Self attention GAN Result
 ___
 ### The self attention gan model which trained 150 epoch generate fake music
-
+![sagan150](./sa150_0.gif) <br>
 youtube link: https://youtu.be/QxlSpPadJnE
 
 ### The self attention gan model which trained 190 epoch generate fake music
-
+![sagan190](./test190_0.gif) <br>
 youtube link: https://youtu.be/5XvYgP_0rw0
 
 ### The self attention gan model which trained 420 epoch generate fake music
-
+![sagan420](./test420_0.gif) <br>
 youtube link: https://youtu.be/nfh7_8glCIM
 
 ### The self attention gan model which trained 430 epoch generate fake music
-
+![sagan430](./test430_0.gif) <br>
 youtube link: https://youtu.be/dNytCDL6Ss4
 ___
