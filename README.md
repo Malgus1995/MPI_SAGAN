@@ -11,7 +11,7 @@ piano roll midi file <br>
 gray scale midi image<br> 
 
 ### training the gan without thresh hold / training the gan applying 0.3 thresh / training the gan applying 0.5 thresh
-![training_process ](./training_process_gif.gif) ![training_process 0_3](./training_process_gif_thresh_0_3.gif.gif) ![training_process 0_5](./training_process_gif_thresh_0_5.gif.gif) <br>
+![training_process ](./training_process_gif.gif) ![training_process 0_3](./training_process_gif_thresh_0_3.gif) ![training_process 0_5](./training_process_gif_thresh_0_5.gif) <br>
 
 ## Models arthitecture
 ___
