@@ -8,7 +8,10 @@ Before training the model, we convert midi file to graysacle midi image.
 piano roll midi file <br>
 
 <img src='./midi_img/alb_esp6_Piano_1.png'><br>
-gray scale midi image<br>
+gray scale midi image<br> 
+
+### training the gan
+![training_process ](./training_process_gif.gif) <br>
 
 ## Models arthitecture
 ___
