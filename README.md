@@ -19,8 +19,8 @@ Link : https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classific
 Link : https://www.kaggle.com/soumikrakshit/classical-music-midi <br>
 <strong> Classical Music MIDI</strong> <br>
 Link : https://www.kaggle.com/soumikrakshit/classical-music-midi <br>
-
-
+<strong> Music MIDI Collection</strong> <br>
+https://www.kaggle.com/programgeek01/anime-music-midi
 
 ## GAN Result
 ___
