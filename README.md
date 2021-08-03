@@ -40,9 +40,7 @@ youtube link: https://youtu.be/QxlSpPadJnE
 youtube link: https://youtu.be/5XvYgP_0rw0
 
 ###The self attention gan model which trained 420 epoch generate fake music
-<audio controls>
-  <source src="./best_result/test420_0.3.mid.mp3" type="audio/mpeg">
-</audio><br>
+youtube link: https://youtu.be/nfh7_8glCIM
 
 ###The self attention gan model which trained 430 epoch generate fake music
 youtube link: https://youtu.be/dNytCDL6Ss4
