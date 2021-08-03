@@ -11,7 +11,7 @@ piano roll midi file <br>
 gray scale midi image<br>
 
 
-##Data source
+## Data source
 ___
 <strong> GTZAN Dataset - Music Genre Classification</strong> <br>
 Link : https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification <br>
