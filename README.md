@@ -25,11 +25,11 @@ Link : https://www.kaggle.com/soumikrakshit/classical-music-midi <br>
 ## GAN Result
 ___
 
-###The DC gan model which trained 1000 epoch generate fake music
-<audio controls>
-  <source src="./best_result/valinagan1000.mid.mp3" type="audio/mpeg">
+### The DC gan model which trained 450 epoch generate fake music
+youtube link: https://youtu.be/HZKP8TjhIk8
 
-</audio><br>
+### The DC gan model which trained 1000 epoch generate fake music
+youtube link: https://youtu.be/apQXf4pcT2I
 
 ## Self attention GAN Result
 ___
