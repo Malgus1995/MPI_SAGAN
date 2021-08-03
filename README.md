@@ -34,14 +34,18 @@ ___
 ## Self attention GAN Result
 ___
 ###The self attention gan model which trained 150 epoch generate fake music
+
 youtube link: https://youtu.be/QxlSpPadJnE
 
 ###The self attention gan model which trained 190 epoch generate fake music
+
 youtube link: https://youtu.be/5XvYgP_0rw0
 
 ###The self attention gan model which trained 420 epoch generate fake music
+
 youtube link: https://youtu.be/nfh7_8glCIM
 
 ###The self attention gan model which trained 430 epoch generate fake music
+
 youtube link: https://youtu.be/dNytCDL6Ss4
 ___
