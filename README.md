@@ -1,8 +1,15 @@
 # MPI_SAGAN
 ____
+
 This project is the generating music using self attention gan.
 
-Before training the model, we convert midi file to graysacle midi image.
+Out result is <a href="https://github.com/Malgus1995/MPI_SAGAN#self-attention-gan-result" >here</a>.
+
+Before training the model, we convert midi file to grayscale midi image.
+
+
+ 
+
 
 <img src='./piano_roll.png' height="106" width="270"><br>
 piano roll midi file <br>
