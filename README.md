@@ -17,40 +17,35 @@ ___
 Link : https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification <br>
 <strong> Classical Music MIDI</strong> <br>
 Link : https://www.kaggle.com/soumikrakshit/classical-music-midi <br>
-<strong> Classical Music MIDI</strong> <br>
-Link : https://www.kaggle.com/soumikrakshit/classical-music-midi <br>
-
-
+<strong> Magenta Datasets </strong> <br>
+Link : https://magenta.tensorflow.org/datasets/ <br>
+<strong> Music MIDI Collection</strong> <br>
+https://www.kaggle.com/programgeek01/anime-music-midi
 
 ## GAN Result
 ___
 
-###The DC gan model which trained 1000 epoch generate fake music
-<audio controls>
-  <source src="./best_result/valinagan1000.mid.mp3" type="audio/mpeg">
+### The DC gan model which trained 450 epoch generate fake music
+youtube link: https://youtu.be/HZKP8TjhIk8
 
-</audio><br>
+### The DC gan model which trained 1000 epoch generate fake music
+youtube link: https://youtu.be/apQXf4pcT2I
 
 ## Self attention GAN Result
 ___
-###The self attention gan model which trained 150 epoch generate fake music
-<audio controls>
-  <source src="./best_result/sa150_0.3test_good.mid.mp3" type="audio/mpeg">
+### The self attention gan model which trained 150 epoch generate fake music
 
-</audio><br>
+youtube link: https://youtu.be/QxlSpPadJnE
 
-###The self attention gan model which trained 190 epoch generate fake music
-<audio controls>
-  <source src="./best_result/test190_0.3.mid.mp3" type="audio/mpeg">
-</audio><br>
+### The self attention gan model which trained 190 epoch generate fake music
 
-###The self attention gan model which trained 420 epoch generate fake music
-<audio controls>
-  <source src="./best_result/test420_0.3.mid.mp3" type="audio/mpeg">
-</audio><br>
+youtube link: https://youtu.be/5XvYgP_0rw0
 
-###The self attention gan model which trained 430 epoch generate fake music
-<audio controls>
-  <source src="./best_result/test430_0.3.mid.mp3" type="audio/mpeg">
-</audio><br>
+### The self attention gan model which trained 420 epoch generate fake music
+
+youtube link: https://youtu.be/nfh7_8glCIM
+
+### The self attention gan model which trained 430 epoch generate fake music
+
+youtube link: https://youtu.be/dNytCDL6Ss4
 ___
