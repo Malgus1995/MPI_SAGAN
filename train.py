@@ -163,13 +163,13 @@ from PIL import Image
 import numpy as np
 import cv2
 
-# test = cv2.imread('result/170_0.3thresh_fake_midi_img.jpg')
+test = cv2.imread('result/159_0.3thresh_fake_midi_img.jpg')
 
-# ess = Image.fromarray(np.uint8(test))
+ess = Image.fromarray(np.uint8(test))
 
-# from utils.img2midi import image2midi
+from utils.img2midi import image2midi
 
-# image2midi(ess,'result','ddsdd')
+image2midi(ess,'result','ddsdd')
 
 # In[]
 
@@ -207,7 +207,7 @@ smusegan = smusegan.to(device)
 optimizerG = optim.Adam(smusegan.parameters(), lr=lr, betas=(beta1, 0.999))
 
 # In[]
-sgen = train(discriminator, smusegan, Dataset.dataload(), num_epochs, optimizerG)
+#sgen = train(discriminator, smusegan, Dataset.dataload(), num_epochs, optimizerG)
 
 # In[]
 

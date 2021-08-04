@@ -80,7 +80,7 @@ www = cv2.imread(img_list[0])
 res_path = './result'
 
 import cv2
-test = cv2.imread('result/180_0.3thresh_fake_midi_img.jpg')
+test = cv2.imread('result/159_0.3thresh_fake_midi_img.jpg')
 test[:18:,:] = 0
 test[75:,:,:] = 0
 test
