@@ -1,4 +1,4 @@
-# MPI_SAGAN - MIDI Piano Image Generative Adversarial Network using Self-Attention 
+# MPI_SAGAN -  MIDI Piano Image Generative Adversarial Network using Self-Attention 
 ____
 
 This project is the generating music using self attention gan.
